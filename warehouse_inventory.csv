@@ -1,0 +1,6 @@
+SKU,Notes,Inventory Level,Updated By,Updated On
+A1001,"Box is on the top shelf, left side. Inventory is low, reorder soon.",Low,Emir Sevim,2025-02-04 10:30:00
+B2002,"Stored in aisle 3, bin 2. Plenty of stock available.",Full,Enis Sevim,2025-02-03 14:15:00
+C3003,"Located in back storage, use older stock first. Moderate inventory level.",Full,Emir Sevim,2025-02-02 08:45:00
+D4004,"On pallet near receiving area. New shipment just arrived, fully stocked.",Full,Emir Sevim,2025-02-01 12:20:00
+E5005,"The older stock is located in the back storage and should be used first. We have a moderate level of inventory, but more is needed.",Low,Enis Sevim,2025-02-04 21:40:41
